@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mzc:home|Door43 (mzc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mzc|d43-mzc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mzc/archive/master.zip|d43-mzc.zip]]
+
+**Recent Changes**
+{{changes>ns = mzc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mzc|Ethnologue data]]
+
